@@ -1,0 +1,28 @@
+name: MT Memes
+favicon: null
+layout_spectrum: 0.4060272192582488
+typography_spectrum: 0.6340022371150553
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9050104485359043
+  lightness: 0.30241064936853945
+  saturation: 0.4972205685917288
+  rhythmicContrast: 0.7369836298748851
+purpose: []
